@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KY+HkFrU2n3v4p8T/kz0djmZlKA9wWKhVouwDf64TtOknf3sBLlMLiHZlhVcaBdrYJD59xZZwQOXj0l2P/URGg==",
+  "dgSpecHash": "+t7oCx/JuxQUgYnSNqJPzC6MrX1NaDFGygwM1tRqzIp/ovv2lZ85ZzdpB7Jj6oK0PeGj4cTsAgKp30KKrqohCA==",
   "success": true,
-  "projectFilePath": "C:\\c#\\DataVariables\\DataVariables.csproj",
+  "projectFilePath": "C:\\c#\\C--basics\\DataVariables\\DataVariables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

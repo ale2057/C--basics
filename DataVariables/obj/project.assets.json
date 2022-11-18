@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\c#\\DataVariables\\DataVariables.csproj",
+      "projectUniqueName": "C:\\c#\\C--basics\\DataVariables\\DataVariables.csproj",
       "projectName": "DataVariables",
-      "projectPath": "C:\\c#\\DataVariables\\DataVariables.csproj",
+      "projectPath": "C:\\c#\\C--basics\\DataVariables\\DataVariables.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\c#\\DataVariables\\obj\\",
+      "outputPath": "C:\\c#\\C--basics\\DataVariables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DataVariables
-build_property.ProjectDir = c:\c#\DataVariables\
+build_property.ProjectDir = c:\c#\C--basics\DataVariables\

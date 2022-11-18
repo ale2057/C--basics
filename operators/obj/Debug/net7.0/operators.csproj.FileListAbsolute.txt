@@ -1,0 +1,15 @@
+C:\c#\C--basics\operators\bin\Debug\net7.0\operators.exe
+C:\c#\C--basics\operators\bin\Debug\net7.0\operators.deps.json
+C:\c#\C--basics\operators\bin\Debug\net7.0\operators.runtimeconfig.json
+C:\c#\C--basics\operators\bin\Debug\net7.0\operators.dll
+C:\c#\C--basics\operators\bin\Debug\net7.0\operators.pdb
+C:\c#\C--basics\operators\obj\Debug\net7.0\operators.csproj.AssemblyReference.cache
+C:\c#\C--basics\operators\obj\Debug\net7.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\C--basics\operators\obj\Debug\net7.0\operators.AssemblyInfoInputs.cache
+C:\c#\C--basics\operators\obj\Debug\net7.0\operators.AssemblyInfo.cs
+C:\c#\C--basics\operators\obj\Debug\net7.0\operators.csproj.CoreCompileInputs.cache
+C:\c#\C--basics\operators\obj\Debug\net7.0\operators.dll
+C:\c#\C--basics\operators\obj\Debug\net7.0\refint\operators.dll
+C:\c#\C--basics\operators\obj\Debug\net7.0\operators.pdb
+C:\c#\C--basics\operators\obj\Debug\net7.0\operators.genruntimeconfig.cache
+C:\c#\C--basics\operators\obj\Debug\net7.0\ref\operators.dll

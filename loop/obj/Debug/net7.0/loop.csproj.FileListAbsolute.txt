@@ -1,0 +1,15 @@
+C:\c#\C--basics\loop\bin\Debug\net7.0\loop.exe
+C:\c#\C--basics\loop\bin\Debug\net7.0\loop.deps.json
+C:\c#\C--basics\loop\bin\Debug\net7.0\loop.runtimeconfig.json
+C:\c#\C--basics\loop\bin\Debug\net7.0\loop.dll
+C:\c#\C--basics\loop\bin\Debug\net7.0\loop.pdb
+C:\c#\C--basics\loop\obj\Debug\net7.0\loop.csproj.AssemblyReference.cache
+C:\c#\C--basics\loop\obj\Debug\net7.0\loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\C--basics\loop\obj\Debug\net7.0\loop.AssemblyInfoInputs.cache
+C:\c#\C--basics\loop\obj\Debug\net7.0\loop.AssemblyInfo.cs
+C:\c#\C--basics\loop\obj\Debug\net7.0\loop.csproj.CoreCompileInputs.cache
+C:\c#\C--basics\loop\obj\Debug\net7.0\loop.dll
+C:\c#\C--basics\loop\obj\Debug\net7.0\refint\loop.dll
+C:\c#\C--basics\loop\obj\Debug\net7.0\loop.pdb
+C:\c#\C--basics\loop\obj\Debug\net7.0\loop.genruntimeconfig.cache
+C:\c#\C--basics\loop\obj\Debug\net7.0\ref\loop.dll
